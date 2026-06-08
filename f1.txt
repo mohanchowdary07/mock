@@ -1,2 +1,2 @@
 f1.txt add in master
-modify f1.txt in master
+modify f1.txt in both master & relese 
